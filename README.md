@@ -1,3 +1,8 @@
+# Component
+- Arduino pro micro - Arduino component
+- Ir Reciver
+- Leds & 320 ohm Res
+
 # Software libraries
 - [IRremote](https://www.arduino.cc/reference/en/libraries/hid-project/)
 - [HID-Project](https://github.com/Arduino-IRremote/Arduino-IRremote)
